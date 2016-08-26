@@ -11,7 +11,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Table of Contents
 
-- SDKs
+- [SDKs](#sdks)
   - [.NET](#net-sdk)
   - [Python](#python-sdk)
   - [Java](#java-sdk)
@@ -19,8 +19,11 @@ guide and add the link you want to contribute in alphabetical order.
   - [Ruby](#ruby-sdk)
   - [Node.js](#nodejs-sdk)
   - [PHP](#php-sdk)
+- [Command Line Tools](#command-line-tools)
+  - [Azure Cross-Platform CLI](#azure-cross-platform-cli)
+  - [Azure PowerShell](#azure-powershell)
+  - [Azure CLI (new)](#azure-cli)
 - Services
-- Command Line Tools
 - Developer Tools
 - Learning Resources
 
@@ -66,3 +69,15 @@ guide and add the link you want to contribute in alphabetical order.
 - [Repo](https://github.com/Azure/azure-sdk-for-php)
 - [Docs and Samples](https://azure.microsoft.com/en-us/develop/php/)
 
+## Command Line Tools
+
+### Azure Cross-Platform CLI
+
+- [Repo](https://github.com/Azure/azure-xplat-cli)
+- [Install](https://azure.microsoft.com/en-us/documentation/articles/xplat-cli-install/)
+
+### Azure PowerShell
+
+- [Repo](https://github.com/azure/azure-powershell)
+- [Install](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
+- [Docs](https://msdn.microsoft.com/library/windowsazure/jj554330.aspx)

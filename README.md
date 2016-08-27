@@ -12,6 +12,7 @@ guide and add the link you want to contribute in alphabetical order.
 ## Table of Contents
 
 - [SDKs](#sdks)
+  - [Azure REST APIs](#azure-rest-apis)
   - [.NET](#net-sdk)
   - [Python](#python-sdk)
   - [Java](#java-sdk)
@@ -22,7 +23,7 @@ guide and add the link you want to contribute in alphabetical order.
 - [Command Line Tools](#command-line-tools)
   - [Azure Cross-Platform CLI](#azure-cross-platform-cli)
   - [Azure PowerShell](#azure-powershell)
-  - [Azure CLI (:new::new:)](#azure-cli)
+  - [Azure CLI (:new::new:)](#azure-cli-newnew)
 - [Services](#services)
   - [Storage](#storage)
   - [Virtual Machines](#virtual-machines)
@@ -39,6 +40,12 @@ guide and add the link you want to contribute in alphabetical order.
 - Contact
 
 ## SDKs
+
+### Azure REST APIs
+
+- [Azure API Reference](https://msdn.microsoft.com/en-us/library/azure/mt420159.aspx)
+- [azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs/)
+- (article) [Authenticating to Azure APIs with Service Principal Accounts](https://github.com/Azure/azure-sdk-for-node/blob/master/Documentation/Authentication.md)
 
 ### .NET SDK
 
@@ -69,16 +76,17 @@ guide and add the link you want to contribute in alphabetical order.
 - [Docs](https://azure.microsoft.com/en-us/develop/ruby/)
 - [Samples](https://azure.microsoft.com/en-us/documentation/articles/?platform=ruby)
 
-### Node.js
+### Node.js SDK
 
 - [Repo](https://github.com/Azure/azure-sdk-for-node)
 - [Docs](https://azure.github.io/azure-sdk-for-node/)
 - [Learn More](https://azure.microsoft.com/en-us/develop/nodejs/)
 
-### PHP
+### PHP SDK
 
 - [Repo](https://github.com/Azure/azure-sdk-for-php)
 - [Docs and Samples](https://azure.microsoft.com/en-us/develop/php/)
+
 
 ## Command Line Tools
 

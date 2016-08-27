@@ -32,6 +32,8 @@ guide and add the link you want to contribute in alphabetical order.
   - [Packer](#packer)
   - [Ansible](#ansible)
   - [Terraform](#terraform)
+- Azure Resource Manager
+  - Templates
 - Learning Resources
 - Support
 - Contact
@@ -102,10 +104,29 @@ guide and add the link you want to contribute in alphabetical order.
 
 Microsoft:
 
-- [Azure Storage Explorer](http://storageexplorer.com/) - closed source, old version [open source](https://github.com/azure-storage/deco/releases)
+- [Azure Storage Explorer](http://storageexplorer.com/) – closed source, old version [open source](https://github.com/azure-storage/deco/releases)
 
 Community:
 
-- [ahmetalpbalkan/azurefs](https://github.com/ahmetalpbalkan/azurefs) - mount Azure Blob Storage as drives on Linux via FUSE
-- 
+- [ahmetalpbalkan/azurefs](https://github.com/ahmetalpbalkan/azurefs) – mount Azure Blob Storage as drives on Linux via FUSE
+
 ### [Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/)
+
+Microsoft:
+
+- [azure-vhd-utils](https://github.com/microsoft/azure-vhd-utils) – CLI utility to upload and inspect VM disks
+
+## Azure Resource Manager
+
+### Templates
+
+Microsoft:
+
+- [azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) - gallery for ready-to-deploy ARM templates
+
+Community:
+
+- [AzureResourceVisualizer](https://github.com/ytechie/AzureResourceVisualizer) - visualizer for ARM templates: [armviz.io](http://armviz.io/)
+- [Sublime-AzureResourceManager](https://github.com/GillesZunino/Sublime-AzureResourceManager/) - SublimeText plugin for ARM templates
+- [vscode-arm](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) - VS Code plugin for ARM templates
+- [vscode-armsnippet](https://marketplace.visualstudio.com/items?itemName=artofshell.armsnippet) - ARM template snippets for VS Code

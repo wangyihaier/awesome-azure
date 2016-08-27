@@ -100,7 +100,7 @@ guide and add the link you want to contribute in alphabetical order.
 
 ## Services
 
-### [Storage](http://www.windowsazure.com/en-us/services/storage/)
+### Storage
 
 Microsoft:
 
@@ -110,7 +110,7 @@ Community:
 
 - [ahmetalpbalkan/azurefs](https://github.com/ahmetalpbalkan/azurefs) – mount Azure Blob Storage as drives on Linux via FUSE
 
-### [Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/)
+### Virtual Machines
 
 Microsoft:
 

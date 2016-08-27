@@ -32,8 +32,8 @@ guide and add the link you want to contribute in alphabetical order.
   - [Packer](#packer)
   - [Ansible](#ansible)
   - [Terraform](#terraform)
-- Azure Resource Manager
-  - Templates
+- [Azure Resource Manager](#azure-resource-manager)
+  - [Templates](#templates)
 - Learning Resources
 - Support
 - Contact

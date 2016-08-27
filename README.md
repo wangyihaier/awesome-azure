@@ -22,9 +22,11 @@ guide and add the link you want to contribute in alphabetical order.
 - [Command Line Tools](#command-line-tools)
   - [Azure Cross-Platform CLI](#azure-cross-platform-cli)
   - [Azure PowerShell](#azure-powershell)
-  - [Azure CLI (new)](#azure-cli)
+  - [Azure CLI (:new::new:)](#azure-cli)
 - Services
 - Developer Tools
+  - [Storage Explorers](#storage-explorers)
+- DevOps Tools
 - Learning Resources
 
 ## SDKs
@@ -81,3 +83,8 @@ guide and add the link you want to contribute in alphabetical order.
 - [Repo](https://github.com/azure/azure-powershell)
 - [Install](https://azure.microsoft.com/en-us/documentation/articles/powershell-install-configure/)
 - [Docs](https://msdn.microsoft.com/library/windowsazure/jj554330.aspx)
+
+### Azure CLI (:new::new:)
+
+- [Repo](https://github.com/Azure/azure-cli)
+- [Install](https://github.com/Azure/azure-cli/blob/master/doc/preview_install_guide.md)

@@ -23,11 +23,18 @@ guide and add the link you want to contribute in alphabetical order.
   - [Azure Cross-Platform CLI](#azure-cross-platform-cli)
   - [Azure PowerShell](#azure-powershell)
   - [Azure CLI (:new::new:)](#azure-cli)
-- Services
-- Developer Tools
-  - [Storage Explorers](#storage-explorers)
+- [Services](#services)
+  - [Storage](#storage)
+  - [Virtual Machines](#virtual-machines)
 - DevOps Tools
+  - [Docker](#docker)
+  - [Kubernetes](#kubernetes)
+  - [Packer](#packer)
+  - [Ansible](#ansible)
+  - [Terraform](#terraform)
 - Learning Resources
+- Support
+- Contact
 
 ## SDKs
 
@@ -88,3 +95,17 @@ guide and add the link you want to contribute in alphabetical order.
 
 - [Repo](https://github.com/Azure/azure-cli)
 - [Install](https://github.com/Azure/azure-cli/blob/master/doc/preview_install_guide.md)
+
+## Services
+
+### [Storage](http://www.windowsazure.com/en-us/services/storage/)
+
+Microsoft:
+
+- [Azure Storage Explorer](http://storageexplorer.com/) - closed source, old version [open source](https://github.com/azure-storage/deco/releases)
+
+Community:
+
+- [ahmetalpbalkan/azurefs](https://github.com/ahmetalpbalkan/azurefs) - mount Azure Blob Storage as drives on Linux via FUSE
+- 
+### [Virtual Machines](https://azure.microsoft.com/en-us/services/virtual-machines/)

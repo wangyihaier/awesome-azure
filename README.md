@@ -27,14 +27,14 @@ guide and add the link you want to contribute in alphabetical order.
 - [Services](#services)
   - [Storage](#storage)
   - [Virtual Machines](#virtual-machines)
-- DevOps Tools
+- [Azure Resource Manager](#azure-resource-manager)
+  - [Templates](#templates)
+- [DevOps Tools](#devops-tools)
   - [Docker](#docker)
   - [Kubernetes](#kubernetes)
   - [Packer](#packer)
   - [Ansible](#ansible)
   - [Terraform](#terraform)
-- [Azure Resource Manager](#azure-resource-manager)
-  - [Templates](#templates)
 - Learning Resources
 - Support
 - Contact
@@ -138,3 +138,14 @@ Community:
 - [Sublime-AzureResourceManager](https://github.com/GillesZunino/Sublime-AzureResourceManager/) - SublimeText plugin for ARM templates
 - [vscode-arm](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools) - VS Code plugin for ARM templates
 - [vscode-armsnippet](https://marketplace.visualstudio.com/items?itemName=artofshell.armsnippet) - ARM template snippets for VS Code
+
+
+## DevOps Tools
+
+### Docker
+
+- [docker-machine Azure driver](https://docs.docker.com/machine/drivers/azure/) - create Docker VMs on Azure Resource Manager
+- [docker-registry Azure storage driver](https://docs.docker.com/registry/storage-drivers/azure/) - configure docker-registry to save images in Azure Blob Storage
+- [azurefile-dockervolumedriver](https://github.com/Azure/azurefile-dockervolumedriver) - volume plugin for using Azure File Storage for persistent volumes
+- Article: [Deploying Private Docker Registry on Azure](https://azure.microsoft.com/en-us/documentation/articles/virtual-machines-linux-docker-registry-in-blob-storage/)
+- Article: [Docker Swarm mode on Azure Container Service](https://azure.microsoft.com/en-us/documentation/articles/container-service-docker-swarm/)
